@@ -1,6 +1,3 @@
 # kiss-kernel
 
-A so stupid repo.
-
-## Thanks
-[dilyn-corner](https://github.com/dilyn-corner)
+This repository is archived, now is in development under [kiss-repo](https://github.com/eudaldgr/kiss-repo/tree/master/kernel)
